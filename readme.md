@@ -1,3 +1,3 @@
-## Hello git
-Modifying scripts in the KHR-1 branch
+## Welcome to git!
+-This is coming from dev-khr
 I'm new commit to new branch
