@@ -1,3 +1,3 @@
-## Hello git
-Modifying scripts in the KHR-1 branch
+## Heyoo everyone, welcome learn git tutorial
+-Yo, Saffat here!
 I'm new commit to new branch
